@@ -27,3 +27,5 @@ for that you need to access the admin , for this you need to create a superuser 
 5. output : 
 ![image](https://user-images.githubusercontent.com/98692616/178453449-d8acb070-e440-40bc-aa6d-86d982d7a30f.png)
 Now you can add blog , delete and update the blog posts..
+
+for any query connect to linkedin www.linkedin.com/in/ashishggaikwad
