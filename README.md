@@ -25,7 +25,7 @@ for that you need to access the admin , for this you need to create a superuser 
 3.run again ```python manage.py runserver ```
 4. Now to go http://127.0.0.1:8000/admin/ and login with your username and password .
 5. output : 
-![image](https://user-images.githubusercontent.com/98692616/178453449-d8acb070-e440-40bc-aa6d-86d982d7a30f.png)
+![image](https://user-images.githubusercontent.com/98692616/178713400-2e9a5531-00af-4083-954c-69eeb5151b14.png)
 Now you can add blog , delete and update the blog posts..
 
 for any query connect to linkedin www.linkedin.com/in/ashishggaikwad
