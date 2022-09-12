@@ -22,7 +22,7 @@ for that you need to access the admin , for this you need to create a superuser 
                      password : 
                      Email: 
                      
-3.run again ```python manage.py runserver ```
+  3.run again ```python manage.py runserver ```
 
 4. Now to go http://127.0.0.1:8000/admin/ and login with your username and password .
 
