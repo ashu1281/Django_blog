@@ -29,7 +29,7 @@ for that you need to access the admin , for this you need to create a superuser 
 Now you can add blog , delete and update the blog posts..
 
 6. Demo video
-        https://screenrec.com/share/2TWAqty4lp
+        https://www.youtube.com/watch?v=KcWv2urjFMw
 
 
 
