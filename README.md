@@ -18,8 +18,9 @@ blog website using django framework also provided admin panel , where you can co
 for that you need to access the admin , for this you need to create a superuser and provided the login information and login ..
 
 1. to create a super user run ``` python manage.py createsuperuser```  
-3. This will ask you  username :
-  
+3. This will ask you  
+
+                      username :  
                       password :                    
                       Email :
                       
